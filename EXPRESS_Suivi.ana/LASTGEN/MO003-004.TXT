@@ -1,0 +1,4 @@
+//MO003-004.TXT ANA00003 TO ANA00004
+EXPRESS_Etablissement	nom	CLEN*		la rubrique nom est maintenant une clé
+EXPRESS_Etablissement	ville	CLEN*		la rubrique ville est maintenant une clé
+EXPRESS_Etablissement	CodePostal	CLEN*		la rubrique CodePostal est maintenant une clé

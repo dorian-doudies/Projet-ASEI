@@ -1,0 +1,7 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+EXPRESS_Devis		TAR	117	nouvelle taille enregistrement : 117
+EXPRESS_Devis	date_devis	RUB+		date_devis est une nouvelle rubrique
+EXPRESS_Devis	tva	RUB+		tva est une nouvelle rubrique
+EXPRESS_Devis	Montant_HT	RUB+		Montant_HT est une nouvelle rubrique
+EXPRESS_Devis	est_avenant	RUB+		est_avenant est une nouvelle rubrique
+EXPRESS_Devis	categorie	RUB+		categorie est une nouvelle rubrique

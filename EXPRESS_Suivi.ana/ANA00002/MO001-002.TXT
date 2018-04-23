@@ -1,0 +1,22 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+EXPRESS_Etablissement		NFI		nouveau fichier
+EXPRESS_Autorisations		NFI		nouveau fichier
+EXPRESS_Autorisations_EXPRESS_Chantier		NFI		nouveau fichier
+EXPRESS_Chantier		NFI		nouveau fichier
+EXPRESS_Commentaire		NFI		nouveau fichier
+EXPRESS_CPOM		NFI		nouveau fichier
+EXPRESS_Etat		NFI		nouveau fichier
+EXPRESS_Financement		NFI		nouveau fichier
+EXPRESS_TypeTravaux		NFI		nouveau fichier
+EXPRESS_TypeTravaux_EXPRESS_Chantier		NFI		nouveau fichier
+EXPRESS_TypeTravaux_EXPRESS_Chantier		FIC-	EXPRESS_Etablissement	Fichier supprimé EXPRESS_Etablissement
+EXPRESS_Etablissement		NWL	EXPRESS_Etablissement (IDEXPRESS_Etablissement) et EXPRESS_Chantier (IDEXPRESS_Etablissement)	Nouvelle liaison entre les fichiers EXPRESS_Etablissement (IDEXPRESS_Etablissement) et EXPRESS_Chantier (IDEXPRESS_Etablissement)
+EXPRESS_Autorisations		NWL	EXPRESS_Autorisations (IDEXPRESS_Autorisations) et EXPRESS_Autorisations_EXPRESS_Chantier (IDEXPRESS_Autorisations)	Nouvelle liaison entre les fichiers EXPRESS_Autorisations (IDEXPRESS_Autorisations) et EXPRESS_Autorisations_EXPRESS_Chantier (IDEXPRESS_Autorisations)
+EXPRESS_Chantier		NWL	EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Autorisations_EXPRESS_Chantier (IDEXPRESS_Chantier)	Nouvelle liaison entre les fichiers EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Autorisations_EXPRESS_Chantier (IDEXPRESS_Chantier)
+EXPRESS_Chantier		NWL	EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Commentaire (IDEXPRESS_Chantier)	Nouvelle liaison entre les fichiers EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Commentaire (IDEXPRESS_Chantier)
+EXPRESS_Chantier		NWL	EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Etat (IDEXPRESS_Chantier)	Nouvelle liaison entre les fichiers EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Etat (IDEXPRESS_Chantier)
+EXPRESS_Chantier		NWL	EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_TypeTravaux_EXPRESS_Chantier (IDEXPRESS_Chantier)	Nouvelle liaison entre les fichiers EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_TypeTravaux_EXPRESS_Chantier (IDEXPRESS_Chantier)
+EXPRESS_CPOM		NWL	EXPRESS_CPOM (IDEXPRESS_CPOM) et EXPRESS_Financement (IDEXPRESS_CPOM)	Nouvelle liaison entre les fichiers EXPRESS_CPOM (IDEXPRESS_CPOM) et EXPRESS_Financement (IDEXPRESS_CPOM)
+EXPRESS_Financement		NWL	EXPRESS_Financement (IDEXPRESS_Financement) et EXPRESS_Chantier (IDEXPRESS_Financement)	Nouvelle liaison entre les fichiers EXPRESS_Financement (IDEXPRESS_Financement) et EXPRESS_Chantier (IDEXPRESS_Financement)
+EXPRESS_Financement		NWL	EXPRESS_Financement (IDEXPRESS_Financement) et EXPRESS_Commentaire (IDEXPRESS_Financement)	Nouvelle liaison entre les fichiers EXPRESS_Financement (IDEXPRESS_Financement) et EXPRESS_Commentaire (IDEXPRESS_Financement)
+EXPRESS_TypeTravaux		NWL	EXPRESS_TypeTravaux (IDEXPRESS_TypeTravaux) et EXPRESS_TypeTravaux_EXPRESS_Chantier (IDEXPRESS_TypeTravaux)	Nouvelle liaison entre les fichiers EXPRESS_TypeTravaux (IDEXPRESS_TypeTravaux) et EXPRESS_TypeTravaux_EXPRESS_Chantier (IDEXPRESS_TypeTravaux)

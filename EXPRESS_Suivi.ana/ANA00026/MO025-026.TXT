@@ -1,0 +1,7 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+EXPRESS_Devis		TAR	125	nouvelle taille enregistrement : 125
+EXPRESS_Devis	IDEXPRESS_Entreprise	RUB+		IDEXPRESS_Entreprise est une nouvelle clé
+EXPRESS_Entreprise		NFI		nouveau fichier
+EXPRESS_contact		NFI		nouveau fichier
+EXPRESS_Entreprise		NWL	EXPRESS_Entreprise (IDEXPRESS_Entreprise) et EXPRESS_Devis (IDEXPRESS_Entreprise)	Nouvelle liaison entre les fichiers EXPRESS_Entreprise (IDEXPRESS_Entreprise) et EXPRESS_Devis (IDEXPRESS_Entreprise)
+EXPRESS_Entreprise		NWL	EXPRESS_Entreprise (IDEXPRESS_Entreprise) et EXPRESS_contact (IDEXPRESS_Entreprise)	Nouvelle liaison entre les fichiers EXPRESS_Entreprise (IDEXPRESS_Entreprise) et EXPRESS_contact (IDEXPRESS_Entreprise)

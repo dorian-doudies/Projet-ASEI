@@ -1,0 +1,4 @@
+//MO017-018.TXT ANA00017 TO ANA00018
+EXPRESS_Chantier		TAR	249	nouvelle taille enregistrement : 249
+EXPRESS_Chantier	date_delegation	RUB+		date_delegation est une nouvelle rubrique
+EXPRESS_Chantier	date_inst_statutaires	RUB+		date_inst_statutaires est une nouvelle rubrique

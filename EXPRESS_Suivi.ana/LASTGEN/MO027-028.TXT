@@ -1,0 +1,2 @@
+//MO027-028.TXT ANA00027 TO ANA00028
+EXPRESS_Devis	tva	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique tva a pour nouveau type Réel sur 4 octets

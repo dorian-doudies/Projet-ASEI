@@ -1,0 +1,6 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+EXPRESS_Chantier		TAR	277	nouvelle taille enregistrement : 277
+EXPRESS_Chantier	IDEXPRESS_Devis	RUB+		IDEXPRESS_Devis est une nouvelle clé
+EXPRESS_Devis		NFI		nouveau fichier
+EXPRESS_Facture		NFI		nouveau fichier
+EXPRESS_Chantier		NWL	EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Devis (IDEXPRESS_Chantier)	Nouvelle liaison entre les fichiers EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Devis (IDEXPRESS_Chantier)

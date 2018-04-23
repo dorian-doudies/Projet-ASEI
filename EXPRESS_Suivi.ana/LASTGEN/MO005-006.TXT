@@ -1,0 +1,6 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+EXPRESS_Etablissement		TAR	273	nouvelle taille enregistrement : 273
+EXPRESS_Etablissement		IDE-*		fichier sans identifiant
+EXPRESS_Etablissement	IDEXPRESS_Etablissement	CNW	Chaîne$Identifiant automatique (8 octets)	la rubrique IDEXPRESS_Etablissement a pour nouveau type Chaîne
+EXPRESS_Chantier		TAR	269	nouvelle taille enregistrement : 269
+EXPRESS_Chantier	IDEXPRESS_Etablissement	CNW	Chaîne$Entier sur 8 octets	la rubrique IDEXPRESS_Etablissement a pour nouveau type Chaîne

@@ -1,0 +1,7 @@
+//MO020-021.TXT ANA00020 TO ANA00021
+EXPRESS_Etat		TAR	113	nouvelle taille enregistrement : 113
+EXPRESS_Etat	montant_travaux_seuls	RUB-		la rubrique montant_travaux_seuls est supprimée
+EXPRESS_Etat	montant_honoraires	RUB-		la rubrique montant_honoraires est supprimée
+EXPRESS_Etat	montant_provision_imprevus	RUB-		la rubrique montant_provision_imprevus est supprimée
+EXPRESS_Etat	montant_raccordements	RUB-		la rubrique montant_raccordements est supprimée
+EXPRESS_Etat	tva_etat	RUB-		la rubrique tva_etat est supprimée
