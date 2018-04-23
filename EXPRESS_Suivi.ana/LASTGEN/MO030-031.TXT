@@ -1,0 +1,9 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+EXPRESS_Chantier		TAR	383	nouvelle taille enregistrement : 383
+EXPRESS_Chantier	date_commande	RUB+		date_commande est une nouvelle rubrique
+EXPRESS_Chantier	date_OS	RUB+		date_OS est une nouvelle rubrique
+EXPRESS_Chantier	date_appel_offre	RUB+		date_appel_offre est une nouvelle rubrique
+EXPRESS_Chantier	date_reception_chantier	RUB+		date_reception_chantier est une nouvelle rubrique
+EXPRESS_Chantier	date_ouverture_public	RUB+		date_ouverture_public est une nouvelle rubrique
+EXPRESS_Chantier	date_cloture_financiere	RUB+		date_cloture_financiere est une nouvelle rubrique
+EXPRESS_Chantier	date_accord_autorite_tarification	RUB+		date_accord_autorite_tarification est une nouvelle rubrique

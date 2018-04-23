@@ -1,0 +1,6 @@
+//MO015-016.TXT ANA00015 TO ANA00016
+		FIC-	EXPRESS_CPOM	Fichier supprimé EXPRESS_CPOM
+		FIC-	EXPRESS_Financement	Fichier supprimé EXPRESS_Financement
+		FIC-	EXPRESS_Facture	Fichier supprimé EXPRESS_Facture
+EXPRESS_CPOM		DEL	EXPRESS_CPOM (IDEXPRESS_CPOM) et EXPRESS_Financement (IDEXPRESS_CPOM)	Liaison supprimée entre les fichiers EXPRESS_CPOM (IDEXPRESS_CPOM) et EXPRESS_Financement (IDEXPRESS_CPOM)
+EXPRESS_Financement		DEL	EXPRESS_Financement (IDEXPRESS_Financement) et EXPRESS_Chantier (IDEXPRESS_Financement)	Liaison supprimée entre les fichiers EXPRESS_Financement (IDEXPRESS_Financement) et EXPRESS_Chantier (IDEXPRESS_Financement)

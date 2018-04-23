@@ -1,0 +1,5 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+EXPRESS_Chantier		TAR	310	nouvelle taille enregistrement : 310
+EXPRESS_Chantier	IDEXPRESS_Financement	RUB-		la clé IDEXPRESS_Financement est supprimée
+EXPRESS_Etat		TAR	62	nouvelle taille enregistrement : 62
+EXPRESS_Etat	phase_en_cours	RUB-		la rubrique phase_en_cours est supprimée

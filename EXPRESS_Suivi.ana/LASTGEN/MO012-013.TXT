@@ -1,0 +1,3 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+EXPRESS_Autorisations		TAR	88	nouvelle taille enregistrement : 88
+EXPRESS_Autorisations	Delai_de_reponse_defaut	CNW	Entier sur 4 octets$Durée	la rubrique Delai_de_reponse_defaut a pour nouveau type Entier sur 4 octets

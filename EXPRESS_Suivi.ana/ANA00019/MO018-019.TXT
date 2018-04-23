@@ -1,0 +1,4 @@
+//MO018-019.TXT ANA00018 TO ANA00019
+EXPRESS_Chantier		TAR	267	nouvelle taille enregistrement : 267
+EXPRESS_Chantier	detail_financement	RUB+		detail_financement est une nouvelle rubrique
+EXPRESS_Chantier	cout_final_facture	RUB+		cout_final_facture est une nouvelle rubrique

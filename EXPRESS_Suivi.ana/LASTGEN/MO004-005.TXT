@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+EXPRESS_Chantier		TAR	270	nouvelle taille enregistrement : 270
+EXPRESS_Chantier	description	RUB+		description est une nouvelle rubrique

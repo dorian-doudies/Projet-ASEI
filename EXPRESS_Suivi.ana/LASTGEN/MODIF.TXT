@@ -1,0 +1,16 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+EXPRESS_Devis		TAR	168	nouvelle taille enregistrement : 168
+EXPRESS_Devis	IDEXPRESS_Lot	RUB+		IDEXPRESS_Lot est une nouvelle clé
+EXPRESS_Devis	Note_Devis	RUB+		Note_Devis est une nouvelle rubrique
+EXPRESS_Devis	IDEXPRESS_Chantier	RUB-		la clé IDEXPRESS_Chantier est supprimée
+EXPRESS_Devis	IDEXPRESS_Entreprise	RUB-		la clé IDEXPRESS_Entreprise est supprimée
+EXPRESS_Facture		NFI		nouveau fichier
+EXPRESS_Entreprise		TAR	519	nouvelle taille enregistrement : 519
+EXPRESS_Entreprise	categorie_ent	RUB+		categorie_ent est une nouvelle rubrique
+EXPRESS_Lot		NFI		nouveau fichier
+EXPRESS_Chantier		NWL	EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Lot (IDEXPRESS_Chantier)	Nouvelle liaison entre les fichiers EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Lot (IDEXPRESS_Chantier)
+EXPRESS_Entreprise		NWL	EXPRESS_Entreprise (IDEXPRESS_Entreprise) et EXPRESS_Lot (IDEXPRESS_Entreprise)	Nouvelle liaison entre les fichiers EXPRESS_Entreprise (IDEXPRESS_Entreprise) et EXPRESS_Lot (IDEXPRESS_Entreprise)
+EXPRESS_Lot		NWL	EXPRESS_Lot (IDEXPRESS_Lot) et EXPRESS_Facture (IDEXPRESS_Lot)	Nouvelle liaison entre les fichiers EXPRESS_Lot (IDEXPRESS_Lot) et EXPRESS_Facture (IDEXPRESS_Lot)
+EXPRESS_Lot		NWL	EXPRESS_Lot (IDEXPRESS_Lot) et EXPRESS_Devis (IDEXPRESS_Lot)	Nouvelle liaison entre les fichiers EXPRESS_Lot (IDEXPRESS_Lot) et EXPRESS_Devis (IDEXPRESS_Lot)
+EXPRESS_Chantier		DEL	EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Devis (IDEXPRESS_Chantier)	Liaison supprimée entre les fichiers EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_Devis (IDEXPRESS_Chantier)
+EXPRESS_Entreprise		DEL	EXPRESS_Entreprise (IDEXPRESS_Entreprise) et EXPRESS_Devis (IDEXPRESS_Entreprise)	Liaison supprimée entre les fichiers EXPRESS_Entreprise (IDEXPRESS_Entreprise) et EXPRESS_Devis (IDEXPRESS_Entreprise)

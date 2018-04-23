@@ -1,0 +1,2 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+EXPRESS_Autorisations_EXPRESS_Chantier	Numero	CLEN*		la rubrique Numero est maintenant une clé

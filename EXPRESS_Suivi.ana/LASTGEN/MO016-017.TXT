@@ -1,0 +1,3 @@
+//MO016-017.TXT ANA00016 TO ANA00017
+EXPRESS_Autorisations_EXPRESS_Chantier		TAR	122	nouvelle taille enregistrement : 122
+EXPRESS_Autorisations_EXPRESS_Chantier	Numero	RUB+		Numero est une nouvelle rubrique

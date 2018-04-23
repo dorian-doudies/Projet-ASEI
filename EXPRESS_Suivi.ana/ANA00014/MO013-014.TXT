@@ -1,0 +1,9 @@
+//MO013-014.TXT ANA00013 TO ANA00014
+EXPRESS_Chantier		TAR	230	nouvelle taille enregistrement : 230
+EXPRESS_Chantier	tva_didev	CNW	Monétaire$Réel sur 4 octets	la rubrique tva_didev a pour nouveau type Monétaire
+EXPRESS_Chantier	travaux_seuls_MI	RUB-		la rubrique travaux_seuls_MI est supprimée
+EXPRESS_Chantier	honoraires_MI	RUB-		la rubrique honoraires_MI est supprimée
+EXPRESS_Chantier	provision_revision_prix_MI	RUB-		la rubrique provision_revision_prix_MI est supprimée
+EXPRESS_Chantier	raccordement_MI	RUB-		la rubrique raccordement_MI est supprimée
+EXPRESS_Chantier	tva_MI	RUB-		la rubrique tva_MI est supprimée
+EXPRESS_Chantier	IDEXPRESS_Devis	RUB-		la clé IDEXPRESS_Devis est supprimée

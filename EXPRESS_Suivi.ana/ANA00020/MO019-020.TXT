@@ -1,0 +1,3 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+EXPRESS_Chantier		TAR	318	nouvelle taille enregistrement : 318
+EXPRESS_Chantier	Personne_en_charge	RUB+		Personne_en_charge est une nouvelle rubrique

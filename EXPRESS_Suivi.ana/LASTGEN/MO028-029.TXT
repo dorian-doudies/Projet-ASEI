@@ -1,0 +1,5 @@
+//MO028-029.TXT ANA00028 TO ANA00029
+		FIC-	EXPRESS_TypeTravaux	Fichier supprimé EXPRESS_TypeTravaux
+		FIC-	EXPRESS_TypeTravaux_EXPRESS_Chantier	Fichier supprimé EXPRESS_TypeTravaux_EXPRESS_Chantier
+EXPRESS_Chantier		DEL	EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_TypeTravaux_EXPRESS_Chantier (IDEXPRESS_Chantier)	Liaison supprimée entre les fichiers EXPRESS_Chantier (IDEXPRESS_Chantier) et EXPRESS_TypeTravaux_EXPRESS_Chantier (IDEXPRESS_Chantier)
+EXPRESS_TypeTravaux		DEL	EXPRESS_TypeTravaux (IDEXPRESS_TypeTravaux) et EXPRESS_TypeTravaux_EXPRESS_Chantier (IDEXPRESS_TypeTravaux)	Liaison supprimée entre les fichiers EXPRESS_TypeTravaux (IDEXPRESS_TypeTravaux) et EXPRESS_TypeTravaux_EXPRESS_Chantier (IDEXPRESS_TypeTravaux)
